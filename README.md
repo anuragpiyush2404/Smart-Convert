@@ -84,5 +84,4 @@ docker run -it --name customer-propensity-to-purchase -p 8000:8000 diends/yourna
 Make sure to replace `diends` with your Docker Hub username and `yourname` with your application/yourname.
 
 
-## Feedback and Support:
-We’re open to suggestions, feedback, and bug reports. For inquiries, please contact [snehasishhaldar415@gmail.com](mailto:snehasishhaldar415@gmail.com).
+
